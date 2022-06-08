@@ -2,12 +2,12 @@
   {
     "id": 1,
     "task": "Give dog a bath",
-    "complete": true
+    "complete": false
   },
   {
     "id": 2,
     "task": "Do laundry",
-    "complete": true
+    "complete": false
   },
   {
     "id": 3,
@@ -17,7 +17,7 @@
   {
     "id": 4,
     "task": "Wash the dishes",
-    "complete": true
+    "complete": false
   },
   {
     "id": 5,
@@ -27,12 +27,12 @@
   {
     "id": 6,
     "task": "Go to the Shop",
-    "complete": true
+    "complete": false
   },
   {
     "id": 7,
     "task": "Get Petrol",
-    "complete": true
+    "complete": false
   },
   {
     "id": 8,
@@ -42,7 +42,7 @@
   {
     "id": 9,
     "task": "Mow Lawn",
-    "complete": true
+    "complete": false
   },
   {
     "id": 10,
@@ -52,12 +52,12 @@
   {
     "id": 11,
     "task": "Take nap",
-    "complete": true
+    "complete": false
   },
   {
     "id": 12,
     "task": "Read book",
-    "complete": true
+    "complete": false
   },
   {
     "id": 13,
